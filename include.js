@@ -3604,10 +3604,6 @@
         imageLink: "./Art/Dragon_Loading/DragonLoading.gif",
         author: "Prasad",
         githubLink: "https://github.com/PrasadM07"
-<<<<<<< HEAD
-    }
-
-=======
     },
     {
         artName: "Loading indicator",
@@ -3616,7 +3612,6 @@
         author: "AhmadDalao",
         githubLink: "https://github.com/AhmadDalao"
     }
->>>>>>> master
 
 ]
 
